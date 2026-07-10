@@ -889,12 +889,9 @@ factor          ::= NUMBER | IDENTIFIER | '(' expression ')'
 ```
 tiny-language/
 ├── interpreter.py
-├── examples/
-│   ├── fizzbuzz.tiny
-│   ├── factorial.tiny
-│   ├── fibonacci.tiny
-│   ├── prime.tiny
-│   └── temp.tiny
+├── factorial.tiny
+├── fibonacci.tiny
+├── test.tiny
 ├── README.md
 └── screenshots/
     ├── fizzbuzz.png
